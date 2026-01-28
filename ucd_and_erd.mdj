@@ -4886,7 +4886,7 @@
 											"top": 523.5,
 											"width": 105,
 											"height": 13,
-											"text": "Manage Invoices"
+											"text": "Manage Receipts"
 										},
 										{
 											"_type": "LabelView",
@@ -4919,7 +4919,7 @@
 									"font": "Arial;13;0",
 									"left": 344.5,
 									"top": 516.5,
-									"width": 115,
+									"width": 116.20263671875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGb+l+JnQaMEUE="
@@ -7222,11 +7222,11 @@
 												"$ref": "AAAAAAGb+mINIyid79w="
 											},
 											"font": "Arial;13;1",
-											"left": 357,
+											"left": 357.5,
 											"top": 819.5,
-											"width": 104,
+											"width": 105,
 											"height": 13,
-											"text": "Manage Invoices"
+											"text": "Manage Receipts"
 										},
 										{
 											"_type": "LabelView",
@@ -7257,9 +7257,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 352,
+									"left": 352.5,
 									"top": 812.5,
-									"width": 114.0380859375,
+									"width": 116.20263671875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGb+mINIyie9vA="
@@ -7359,7 +7359,7 @@
 							"containerChangeable": true,
 							"left": 328,
 							"top": 808,
-							"width": 162,
+							"width": 164,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGb+mINIyid79w="
@@ -9373,7 +9373,7 @@
 											"top": 1179.5,
 											"width": 80,
 											"height": 13,
-											"text": "View Invoice"
+											"text": "View Receipt"
 										},
 										{
 											"_type": "LabelView",
@@ -10036,11 +10036,11 @@
 												"$ref": "AAAAAAGb+nJLpFgErEQ="
 											},
 											"font": "Arial;13;1",
-											"left": 567.5,
+											"left": 568,
 											"top": 859.5,
-											"width": 77,
+											"width": 79,
 											"height": 13,
-											"text": "Print Invoice"
+											"text": "Print Receipt"
 										},
 										{
 											"_type": "LabelView",
@@ -10071,9 +10071,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 562.5,
+									"left": 563,
 									"top": 852.5,
-									"width": 88.01904296875,
+									"width": 90.18359375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGb+nJLpFgF7R4="
@@ -10173,7 +10173,7 @@
 							"containerChangeable": true,
 							"left": 544,
 							"top": 848,
-							"width": 124,
+							"width": 127,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGb+nJLpFgErEQ="
@@ -10549,7 +10549,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 693,
+									"left": 696,
 									"top": 843,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -10570,7 +10570,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 696,
+									"left": 699,
 									"top": 830,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -10591,7 +10591,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 689,
+									"left": 692,
 									"top": 871,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -10698,7 +10698,7 @@
 								"$ref": "AAAAAAGb+nJLpFgDWB0="
 							},
 							"lineStyle": 1,
-							"points": "668:865;840:864;841:448",
+							"points": "671:865;840:864;841:448",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGb+nKQt14YX94="
@@ -12842,7 +12842,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 513,
+									"left": 514,
 									"top": 855,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -12862,7 +12862,7 @@
 										"$ref": "AAAAAAGb+pQXYGrU/4Q="
 									},
 									"font": "Arial;13;0",
-									"left": 484,
+									"left": 485,
 									"top": 870,
 									"width": 53.49169921875,
 									"height": 13,
@@ -12885,7 +12885,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 518,
+									"left": 519,
 									"top": 826,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -12904,7 +12904,7 @@
 								"$ref": "AAAAAAGb+nJLpFgDWB0="
 							},
 							"lineStyle": 1,
-							"points": "543:852;490:842",
+							"points": "543:852;492:842",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGb+pQXYWrXdz0="
@@ -15981,7 +15981,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGb+lPDudmeJE8="
 					},
-					"name": "Manage Invoices"
+					"name": "Manage Receipts"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -16029,7 +16029,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGb+lPDudmeJE8="
 					},
-					"name": "Manage Invoices"
+					"name": "Manage Receipts"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -16085,7 +16085,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGb+lPDudmeJE8="
 					},
-					"name": "View Invoice"
+					"name": "View Receipt"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -16143,7 +16143,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGb+lPDudmeJE8="
 					},
-					"name": "Print Invoice",
+					"name": "Print Receipt",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
